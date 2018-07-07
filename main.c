@@ -12,6 +12,7 @@ int main(){
 	Insert(&root, 10);
 	Insert(&root, 59);
 	Insert(&root, 30);
+	Insert(&root, 39);
 
 	// print 
 	printf("\nPre-Order Print\n");
